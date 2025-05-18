@@ -141,4 +141,33 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - IMDB dataset provided by Keras
 - TensorFlow and Keras for deep learning implementation
-- Scikit-learn for traditional machine learning implementation 
+- Scikit-learn for traditional machine learning implementation
+
+## 📊 Data Analysis
+
+The project includes a comprehensive data analysis script (`data_analysis.py`) that provides insights into the IMDB dataset before model training. The analysis includes:
+
+### Visualizations
+- **Sequence Length Analysis**: Distribution of review lengths in training and testing sets
+- **Word Frequency Analysis**: Top 20 most frequent words in the dataset
+- **Class Distribution**: Distribution of positive and negative reviews
+- **Word Cloud**: Visual representation of common words in reviews
+- **Sentiment Length Distribution**: Review length distribution by sentiment
+
+### Statistics
+- Average and median review lengths
+- Word frequency statistics
+- Class distribution percentages
+- Review length statistics by sentiment
+
+To run the analysis:
+```bash
+python data_analysis.py
+```
+
+This will generate the following visualization files:
+- `sequence_length_analysis.png`: Histogram and box plot of review lengths
+- `word_frequency.png`: Bar chart of most frequent words
+- `class_distribution.png`: Pie charts of class distribution
+- `wordcloud.png`: Word cloud of common words
+- `sentiment_length_distribution.png`: Violin plot of review lengths by sentiment 
