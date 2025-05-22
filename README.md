@@ -170,4 +170,15 @@ This will generate the following visualization files:
 - `word_frequency.png`: Bar chart of most frequent words
 - `class_distribution.png`: Pie charts of class distribution
 - `wordcloud.png`: Word cloud of common words
-- `sentiment_length_distribution.png`: Violin plot of review lengths by sentiment 
+- `sentiment_length_distribution.png`: Violin plot of review lengths by sentiment
+
+![lstm_training_history](https://github.com/user-attachments/assets/bc931b57-7ac0-4d6c-8520-3b1fb3568c80)
+![model_comparison](https://github.com/user-attachments/assets/ac562c09-6313-4afb-abf7-958d87845071)
+![wordcloud](https://github.com/user-attachments/assets/8a361b3e-3334-4609-86f3-19f2a98a4a7b)
+![class_distribution](https://github.com/user-attachments/assets/2bab24cd-1e54-45cf-8fbc-53cd7b6f4671)
+![review_length_analysis](https://github.com/user-attachments/assets/875ec21f-061d-46c1-89bc-24279380c7a2)
+![word_frequency](https://github.com/user-attachments/assets/29eaf0d1-3452-4a1a-bf8e-9ab4b64214c5)
+![ann_confusion_matrix](https://github.com/user-attachments/assets/2e340a93-791b-451c-b3c9-3888e3d304b4)
+![ann_training_history](https://github.com/user-attachments/assets/8c961aaf-0226-424c-9f11-39ecd1d83053)
+![lr_confusion_matrix](https://github.com/user-attachments/assets/f7de7ddc-5114-4618-afcf-21da952f2db7)
+![lstm_confusion_matrix](https://github.com/user-attachments/assets/e252f027-d86d-4926-8545-5441480a0510)
